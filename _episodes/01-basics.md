@@ -102,3 +102,12 @@ collaboration among different people.
 > >     problems.
 > {: .solution}
 {: .challenge}
+
+> ## Data Management/Literacy Tips
+>
+> Adopting a File Naming Convention (FNC) is extremely important to better manage your project data. It offers framework for naming your files in a way that describes what they contain and how they relate to other files. Developing an FNC is done through identifying the key elements of the project, the important differences and commonalities between your files. We recommend you following this [dos and dont's tips](https://www.library.ucsb.edu/sites/default/files/dls-n01-2021-filenaming.pdf) while planning it. 
+> ~~~
+> code
+> ~~~
+> {: .source}
+{: .callout}
